@@ -1,7 +1,7 @@
 clc
 clear all
 close all
-addpath('E:\3. 特征缺失的异常检测\pami_code\SALAD_CODE+DATA\DATA')
+addpath('**********')
 
 res_all = [];
 for data_num = 1:5
